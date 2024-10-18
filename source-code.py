@@ -49,8 +49,8 @@ How to Play:
    - You will enter 'h' for "higher" or 'l' for "lower".
 
 3. Card Rankings:
-   - The cards are ranked from Ace (lowest) to King (highest):
-     - Ace = 1, 2, 3, ..., 10, Jack = 11, Queen = 12, King = 13.
+   - The cards are ranked from Ace (lowest) to King (highest)
+   - Ace = 1, 2, 3, ..., 10, Jack = 11, Queen = 12, King = 13.
 
 4. Scoring:
    - Correct Guess: You will earn 20 points if your guess is right.
