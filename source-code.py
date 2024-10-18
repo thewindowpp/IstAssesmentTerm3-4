@@ -55,7 +55,7 @@ How to Play:
 4. Scoring:
    - Correct Guess: You will earn 20 points if your guess is right.
    - Incorrect Guess: You will lose 15 points if your guess is wrong.
-   - You will only be disquallified if you end the game with a negative score.
+   - You will only be disqualified if you end the game with a negative score.
 
 5. Game Rounds:
    - The game consists of 8 rounds (guesses). After each guess, the next card becomes the "current card," and you continue guessing until all 8 cards are played.
