@@ -1,0 +1,28 @@
+How to Play:
+
+1. Starting the Game: 
+    - The game begins with a shuffled deck of cards.
+    - A card will be drawn and shown to you, along with its suit and rank (e.g., "5 of Hearts").
+
+2. Making a Guess:
+    - You need to decide whether the next card drawn from the deck will be higher or lower than the current card.
+    - You will enter 'h' for "higher" or 'l' for "lower".
+
+3. Card Rankings:
+    - The cards are ranked from Ace (lowest) to King (highest)
+    - Ace = 1, 2, 3, ..., 10, Jack = 11, Queen = 12, King = 13.
+
+4. Scoring:
+    - Correct Guess: You will earn 20 points if your guess is right.
+    - Incorrect Guess: You will lose 15 points if your guess is wrong.
+    - You will only be disquallified if you end the game with a negative score.
+
+5. Game Rounds:
+    - The game consists of 8 rounds (guesses). After each guess, the next card becomes the "current card," and you continue guessing until all 8 cards are played.
+
+6. Ending the Game:
+    - After 8 rounds, you’ll see your score, the highest score will be recorded.
+    - You can choose to play again by pressing ENTER or quit the game by typing 'q'.
+
+7. Initial Score:
+    - You start the game with a score of 50 points.
